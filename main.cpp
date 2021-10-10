@@ -1,0 +1,1 @@
+atoi( str.c_str() )
